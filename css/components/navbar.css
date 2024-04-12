@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #5CD6C8; 
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-right: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.navbar a:last-child {
+    border-right: none; 
+}
